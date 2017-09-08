@@ -3,7 +3,7 @@
 # Introduction 
 This Web App is the first project for the Code Institute's classroom bootcamp. It is a fully responsive static front-end only app built with HTML, CSS & JavaScript.
 
-View the wireframe_browser.png and wireframe_mobile.png file in the repo above for the mock-ups created for this project
+
 
 ## Live Demo
 
@@ -38,7 +38,7 @@ This project was deployed to GitHub pages
 3. JavaScript
   * For accordion list on 'vendors' page
   * jQuery library for animation
-  * fancyBox3 jQuery lightbox script for the image gallery
+  
 
 
 
