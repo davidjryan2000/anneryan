@@ -1,12 +1,13 @@
  # Stream 1 Project, Code Institute - David Ryan
 
+# Introduction 
 This Web App is the first project for the Code Institute's classroom bootcamp. It is a fully responsive static front-end only app built with HTML, CSS & JavaScript.
 
 View the wireframe_browser.png and wireframe_mobile.png file in the repo above for the mock-ups created for this project
 
 ## Live Demo
 
-Follow this link to view deployed version of the web app https://kgmaxwell1990.github.io/Old-Court-Chapel-Weddings
+Follow this link to view deployed version of the web app https://davidjryan2000.github.io/anneryan
 
 ## Installation
 
