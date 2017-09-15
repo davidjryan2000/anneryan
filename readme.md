@@ -16,7 +16,7 @@ I added a selection of videos relating to the areas that the client works in. A 
 
 The Contact Page
 
-The Google map in the theme was changed to the location of the clients office.  The map will resize on different screens once loaded but resizing the window in will change the current centre postion of the map. I've left in the contact form at the clients request - there is no backend requirement for the stream 1 project but to complete the work for the client I'll create one and activate the contact form.
+The Google map in the theme was changed to the location of the clients office.  The map will resize on different screens once loaded but resizing the window in will change the current centre postion of the map. I've left in the contact form at the clients request - there is no backend requirement for the stream 1 project but to complete the work for the client I'll create one and activate the contact form. A Javascript message will appear once the form is completed and the submit button is clicked. An autoplay audio track was added to this form. It is not required for the clients purposes but demonstrates what can be achieved with audio tags.  
 
 
 ## Live Demo
